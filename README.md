@@ -13,8 +13,11 @@
 
 ![设备图片](img/image-6.png)
 
- // Start of Selection
-# 更新记录：2024年10月5日 - 安卓4.4.4，增加Root权限、开启ADB功能、集成Magisk、支持切卡功能。
+## 更新日志
+更新记录：2024年10月5日 - 安卓4.4.4，增加Root权限、开启ADB功能、集成Magisk、支持切卡功能。
+# Start Generation Here
+---
+# End Generation Here
 
 ## 目录详情
 - **APP**：存放常用刷机后用的应用程序。
