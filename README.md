@@ -1,4 +1,3 @@
- // Start of Selection
 # 随身WiFi 刷机指南
 
 ## 设备信息
@@ -11,7 +10,7 @@
 - **Root 状态**：已获取
 - **ADB 状态**：已开启
 
-![设备图片](img/image-6.png)
+(img/image-6.png)
 
 ## 更新日志
 更新记录：2024年10月5日 - 安卓4.4.4，增加Root权限、开启ADB功能、集成Magisk、支持切卡功能。
@@ -33,19 +32,19 @@
 1. 安装 `9008drive.exe`，一路点击“下一步”即可。
 2. 进入 9008 模式：
    - 先断开 USB，取下电池，找到板子上的 fb 位置（仔细查看，在板子边缘），共有 4 个金点。用螺丝刀按住中间 2 个金点，然后插入 USB，数到3，即可进入 9008 模式。右键点击“我的电脑” - “管理” - “设备管理器” - “端口（COM 和 LPT）”查看是否成功。
-   ![备份设备步骤](img/image-5.png)
+   !(img/image-5.png)
 3. 备份设备固件，保存为 bin 格式：
    - 打开 Miko，按照图示流程备份您的随身WiFi。
-   ![备份流程](img/image-1.png)
+   !(img/image-1.png)
 
 ## 刷机步骤
 1. 下载固件，并将下载的固件放在一个英文目录中。
 2. 进入 9008 模式。
 3. 打开 MiKo，按照以下流程操作：
-   ![刷机流程](img/image-3.png)
+   !(img/image-3.png)
 
 ## 常见问题
-![常见问题图片](img/image-2.png)
+!(img/image-2.png)
 
 - **（Miko Service Tool）和（Qualcomm Premium Tool）提示：fail**
   1. 主要原因是 9008 被占用，需要重新插拔数据库或更换 USB 接口。
