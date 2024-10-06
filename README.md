@@ -24,7 +24,7 @@
 <!-- Start Generation Here -->
 <!-- Start of Selection -->
 <p align="center">
-    <img src="img/image-7.png" alt="插入图片" style="max-width: 80%; height: auto;">
+    <img src="img/image-7.png" alt="插入图片" style="max-width: 30%; height: auto;">
 </p>
 <!-- End of Selection -->
 <!-- End Generation Here -->
