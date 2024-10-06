@@ -1,4 +1,15 @@
-# 随身WiFi 刷机指南
+
+<p align="center">
+<h1 align="center">新讯410 root adb 固件包</h1>
+</p>
+<p align="center">
+    <img alt="Gitea Stars" src="https://img.shields.io/github/stars/sudojia/AutoTaskScript?style=flat-square&logo=GitHub">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/sudojia/AutoTaskScript?style=flat-square&logo=GitHub">
+    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/sudojia/AutoTaskScript?style=flat-square&logo=GitHub">
+    <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues-closed-raw/sudojia/AutoTaskScript?style=flat-square&logo=GitHub">
+    <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/sudojia/AutoTaskScript?style=flat-square&logo=GitHub">
+    <img alt="GitHub License" src="https://img.shields.io/github/license/sudojia/AutoTaskScript?style=flat-square">
+</p>
 
 ## 设备信息
 - **品牌**：新讯 WR800 （黑色）
