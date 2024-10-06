@@ -21,7 +21,7 @@
 - **Root 状态**：已获取
 - **ADB 状态**：已开启
 <p align="center"><img align="center" width="400" src="https://github.com/x7780/MF32T_MB_V01/blob/main/img/image-6.png" /></p>
-(img/image-6.png)
+
 
 # Start of Selection
  更新日志 更新记录：2024年10月6日 - 安卓4.4.4，集成Magisk、支持切卡功能。
