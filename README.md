@@ -23,11 +23,6 @@
 <p align="center"><img align="center" width="400" src="https://github.com/x7780/MF32T_MB_V01/blob/main/img/image-6.png" /></p>
 
 
-# Start of Selection
- 更新日志 更新记录：2024年10月6日 - 安卓4.4.4，集成Magisk、支持切卡功能。
- 更新记录：2024年10月5日 - 安卓4.4.4，增加Root权限、开启ADB功能。
-
-
 ## 目录详情
 - **APP**：存放常用刷机后用的应用程序。
 - **驱动工具**：请先安装 `9008drive.exe`，其他工具可自行选择安装。
