@@ -20,12 +20,12 @@
 - **切卡密码**：admin
 - **Root 状态**：已获取
 - **ADB 状态**：已开启
-
+<p align="center"><img align="center" width="400" src="https://github.com/user-attachments/assets/3ceffccc-e4b3-4098-b9ba-44a94cf01294" /></p>
 (img/image-6.png)
 
 # Start of Selection
-## 更新日志 更新记录：2024年10月6日 - 安卓4.4.4，集成Magisk、支持切卡功能。
-## 更新记录：2024年10月5日 - 安卓4.4.4，增加Root权限、开启ADB功能。
+ 更新日志 更新记录：2024年10月6日 - 安卓4.4.4，集成Magisk、支持切卡功能。
+ 更新记录：2024年10月5日 - 安卓4.4.4，增加Root权限、开启ADB功能。
 
 
 ## 目录详情
