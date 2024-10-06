@@ -22,9 +22,11 @@
 - **ADB 状态**：已开启
 #插入图片 并且要居中
 <!-- Start Generation Here -->
+<!-- Start of Selection -->
 <p align="center">
-    <img src="img/image-7.png" alt="插入图片">
+    <img src="img/image-7.png" alt="插入图片" style="max-width: 80%; height: auto;">
 </p>
+<!-- End of Selection -->
 <!-- End Generation Here -->
 
 ## 目录详情
