@@ -1,6 +1,6 @@
 
 <p align="center">
-<h1 align="center">新讯410 root adb 固件包</h1>
+<h1 align="center">新讯 WR800 随身wifi固件</h1>
 </p>
 <p align="center">
     <img alt="Gitea Stars" src="https://img.shields.io/github/stars/x7780/MF32T_MB_V01?style=flat-square&logo=GitHub">
