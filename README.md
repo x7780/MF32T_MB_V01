@@ -20,7 +20,12 @@
 - **切卡密码**：admin
 - **Root 状态**：已获取
 - **ADB 状态**：已开启
-
+#插入图片 并且要居中
+<!-- Start Generation Here -->
+<p align="center">
+    <img src="img/image-7.png" alt="插入图片">
+</p>
+<!-- End Generation Here -->
 
 ## 目录详情
 - **APP**：存放常用刷机后用的应用程序。
