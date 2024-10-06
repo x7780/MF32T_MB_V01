@@ -20,8 +20,8 @@
 - **切卡密码**：admin
 - **Root 状态**：已获取
 - **ADB 状态**：已开启
-<p align="center"><img align="center" width="400" src="https://github.com/x7780/MF32T_MB_V01/blob/main/img/image-6.png" /></p>
 
+![img](https://github.com/x7780/MF32T_MB_V01/blob/main/img/image-6.png)
 
 ## 目录详情
 - **APP**：存放常用刷机后用的应用程序。
