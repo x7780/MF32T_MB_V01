@@ -11,6 +11,7 @@
     <img alt="GitHub License" src="https://img.shields.io/github/license/x7780/MF32T_MB_V01?style=flat-square">
 </p>
 
+<!-- Start of Selection -->
 ## 设备信息
 - **品牌**：新讯 WR800 （黑色）
 - **板子型号**：MF32T_MB_V01
@@ -20,14 +21,15 @@
 - **切卡密码**：admin
 - **Root 状态**：已获取
 - **ADB 状态**：已开启
-#插入图片 并且要居中
-<!-- Start Generation Here -->
-<!-- Start of Selection -->
-<p align="center">
-    <img src="img/image-7.png" alt="插入图片" style="max-width: 30%; height: auto;">
-</p>
+<div style="display: flex; align-items: center;">
+    <div>
+        <p>插入图片</p>
+    </div>
+    <div>
+        <img src="img/image-7.png" alt="插入图片" style="max-width: 30%; height: auto;">
+    </div>
+</div>
 <!-- End of Selection -->
-<!-- End Generation Here -->
 
 ## 目录详情
 - **APP**：存放常用刷机后用的应用程序。
