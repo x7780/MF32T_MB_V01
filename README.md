@@ -21,15 +21,6 @@
 - **切卡密码**：admin
 - **Root 状态**：已获取
 - **ADB 状态**：已开启
-<div style="display: flex; align-items: center;">
-    <div>
-        <p>插入图片</p>
-    </div>
-    <div>
-        <img src="img/image-7.png" alt="插入图片" style="max-width: 30%; height: auto;">
-    </div>
-</div>
-<!-- End of Selection -->
 
 ## 目录详情
 - **APP**：存放常用刷机后用的应用程序。
@@ -47,7 +38,9 @@
 1. 安装 `9008drive.exe`，一路点击“下一步”即可。
 2. 进入 9008 模式：
    - 先断开 USB，取下电池，找到板子上的 fb 位置（仔细查看，在板子边缘），共有 4 个金点。用镊子按住中间 2 个金点，然后插入 USB，数到3，即可进入 9008 模式。右键点击“我的电脑” - “管理” - “设备管理器” - “端口（COM 和 LPT）”查看是否成功。
-   !(img/image-5.png)
+   <p align="center">
+   <img src="img/image-5.png" style="max-width: 80%;" alt="设备备份示意图">
+   </p>
 3. 备份设备固件，保存为 bin 格式：
    - 打开 Miko，按照图示流程备份您的随身WiFi。
  
