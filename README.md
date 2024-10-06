@@ -20,7 +20,7 @@
 - **切卡密码**：admin
 - **Root 状态**：已获取
 - **ADB 状态**：已开启
-<p align="center"><img align="center" width="400" src="https://github.com/user-attachments/assets/3ceffccc-e4b3-4098-b9ba-44a94cf01294" /></p>
+<p align="center"><img align="center" width="400" src="https://github.com/x7780/MF32T_MB_V01/blob/main/img/image-6.png" /></p>
 (img/image-6.png)
 
 # Start of Selection
