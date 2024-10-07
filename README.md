@@ -39,7 +39,7 @@
 2. 进入 9008 模式：
    - 先断开 USB，取下电池，找到板子上的 fb 位置（仔细查看，在板子边缘），共有 4 个金点。用镊子按住中间 2 个金点，然后插入 USB，数到3，即可进入 9008 模式。右键点击“我的电脑” - “管理” - “设备管理器” - “端口（COM 和 LPT）”查看是否成功。
    <p align="center">
-   <img src="img/image-5.png" style="max-width: 80%;" alt="设备备份示意图">
+   <img src="img/image-1.jpg" style="max-width: 80%;" alt="设备备份示意图">
    </p>
 3. 备份设备固件，保存为 bin 格式：
    - 打开 Miko，按照图示流程备份您的随身WiFi。
@@ -49,7 +49,9 @@
 1. 下载固件，并将下载的固件放在一个英文目录中。
 2. 进入 9008 模式。
 3. 打开 MiKo，按照以下流程操作：
-   !(img/image-3.png)
+   <p align="center">
+   <img src="img/image-6.jpg" style="max-width: 80%;" alt="设备备份示意图">
+   </p>
 
 ## 常见问题
 - **（Miko Service Tool）和（Qualcomm Premium Tool）提示：fail**
