@@ -76,7 +76,7 @@ https://www.123865.com/s/dgXbjv-9Sgfd?  提取码:6666
   1. 先检查驱动，是否正确安装。
   2. 换数据线或者镊子，或者换电脑。
   3. 用镊子按住主板上FB位置中间的两个小圆点，然后插上USB，数到3，即可进入9008。
-- **enable_wifi.sh问题**
+- **enable_wifi.sh 问题**
   1. 这个脚本的作用是开机自动启动热点，usb网络共享，关闭4G网络在开启。
   2. 脚本位置在/data/adb/service.d/enable_wifi.sh
   3. 如果脚本有问题，请自行修改。或删除，删除命令是rm -rf /data/adb/service.d/enable_wifi.sh
