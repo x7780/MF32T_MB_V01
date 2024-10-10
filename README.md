@@ -21,7 +21,9 @@
 - **切卡密码**：admin
 - **Root 状态**：已获取
 - **ADB 状态**：已开启
-
+    <p align="center">
+   <img src="img/image.png" style="max-width: 80%;" alt="刷机后演示">
+   </p>
 ## 目录详情
 - **APP**：存放常用刷机后用的应用程序。
 - **驱动工具**：请先安装 `9008drive.exe`，其他工具可自行选择安装。
