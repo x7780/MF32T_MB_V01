@@ -57,6 +57,12 @@ https://www.123865.com/s/dgXbjv-9Sgfd?  提取码:6666
     <p align="center">
    <img src="img/image-1.jpg" style="max-width: 80%;" alt="设备备份示意图">
    </p>
+## 全量恢复
+1. 下载全量恢复包，这个固件已经打包好所有app和root，也开了adb。：
+   - 打开 Miko，（文件太大，我放在网盘里面了）按照图示流程备份您的随身WiFi。恢复bin格式全量包就可以。
+    <p align="center">
+   <img src="img/image-9.png" style="max-width: 80%;" alt="设备备份示意图">
+   </p>
 
 ## 刷机步骤
 1. 在网盘下载固件，并将下载的固件放在一个英文目录中。
